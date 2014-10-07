@@ -2,4 +2,8 @@ Step Description,ObjectName,ActionCode,42,43,44,45,46,47
 Close The Application,VD_ELE_TitleBar,close,com.konylabs.DigiBank,com.konylabs.DigiBank,com.konylabs.DigiBank,com.konylabs.DigiBank,com.konylabs.DigiBank,com.konylabs.DigiBank
 Close The Application,VD_ELE_TitleBar,close,0,1,44,0,5,0
 ,,,,,,,,
+<<<<<<< HEAD
 Close The Application1,VD_ELE_TitleBar,close,0,0,44,0,0,0
+=======
+Close The Application1,VD_ELE_TitleBar,close,0,0,0,45,0,0
+>>>>>>> origin/master
